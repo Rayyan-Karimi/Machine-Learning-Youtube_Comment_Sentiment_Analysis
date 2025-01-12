@@ -1,0 +1,17 @@
+Showing the projects, currently no audio.
+First, HUGGING FACE - SENTIMENT ANALYSIS
+
+Next - CNN CLassification..... First we have downloaded dataset and removed incorrect elements...
+Then we trained the model using mostly all the dataset, except a few... 
+Then we tested it....
+
+
+Showing test result .. accuracy = 90%
+
+IN LSTM, we have first got our dataset from Yahoo Finance,
+then we prepare our data for model analysis.
+And preprocess data for error-prone data.
+
+Then we run our model and generate .... predictions (WE USE 80% of data for training and 20% for testing)
+
+Showing its results.... for apple and microsoft stocks...
